@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SkeletonBasics-WPF.exe" version="1.0.0.2" publicKeyToken="143edc8425a2afe0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Images\Kinect.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SkeletonBasics-WPF" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SkeletonBasics-WPF.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Kinect" version="1.5.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SkeletonBasics-WPF.exe" size="94208">
+      <assemblyIdentity name="SkeletonBasics-WPF" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rJIQJ2e/Js5dC0s6KHyjoCeaefo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Images\Kinect.ico" size="31842">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VYRtxkdNcxDh1p/d5X2QdJgrh6g=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Miguel-PC\Miguel" issuerKeyHash="00ae37f3421c6402cb34ea9d7369b8d03d6ce0f8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>00horzogj149uuQTlCP3WEnmmAI=</DigestValue></Reference></SignedInfo><SignatureValue>iPkgf079FbxiDBiUyD0yiaqsgcQ7ctFUGP4BEls7R/aNVJ7O70U/ftrkUrP3DykV9NtzltX9V7wexp/zJRK0JzVyZgFaLBpmbWRlvmew/sn4wf+Mnb4DIBieoNEjc4nZKvYBrIBVPMKLDcFOmAkdOOQQ6XuNzIJ4I/kdX+3LFco=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wLgp4iqGRMPvdiEJ1mG43EcGbkf2qP6xxN4KEFm1VvwuB6YyqsE17XZamrzsRMSxOHL1LeYQH7cVc9ZubTLezaFNofw0BvpszGdWZQFoaPn5HXKIHiSc9+5EhJYlXjJ1I/7rBpZBZNm8RhdMJdvxbDawa8bLS1jJEyhVROwa7mU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0298e64958f7239413e4ba3d5e8f203aaf6848d3" Description="" Url=""><as:assemblyIdentity name="SkeletonBasics-WPF.exe" version="1.0.0.2" publicKeyToken="143edc8425a2afe0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Miguel-PC\Miguel</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XKqk+nQVsIkkhcQHyTg0MkhAiXk=</DigestValue></Reference></SignedInfo><SignatureValue>ZqNXEcX9fJBhnTK9AvFKmPLLERxTpDUX+hOXyZteVv4zeaFu/ySsxfFryQkePR0DHl98WFTSe3BRlznKpS2HM8aqu0sfqj51o4q9wXQ/MZmKQ9mM4de3aPFJ2PjfIM2qTh/h3+JR+YohRsJ3ij9Mve4yBINY6BP+Ls8rO7YcUOg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wLgp4iqGRMPvdiEJ1mG43EcGbkf2qP6xxN4KEFm1VvwuB6YyqsE17XZamrzsRMSxOHL1LeYQH7cVc9ZubTLezaFNofw0BvpszGdWZQFoaPn5HXKIHiSc9+5EhJYlXjJ1I/7rBpZBZNm8RhdMJdvxbDawa8bLS1jJEyhVROwa7mU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQTkCMVI8horZG/L07+uliJTANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAATQBpAGcAdQBlAGwALQBQAEMAXABNAGkAZwB1AGUAbDAeFw0xMjExMDcwMzMyMjBaFw0xMzExMDcwOTMyMjBaMCsxKTAnBgNVBAMeIABNAGkAZwB1AGUAbAAtAFAAQwBcAE0AaQBnAHUAZQBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAuCniKoZEw+92IQnWYbjcRwZuR/ao/rHE3goQWbVW/C4HpjKqwTXtdlqavOxExLE4cvUt5hAftxVz1m5tMt7NoU2h/DQG+mzMZ1ZlAWho+fkdcogeJJz37kSEliVeMnUj/usGlkFk2bxGF0wl2/FsNrBrxstLWMkTKFVE7BruZQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAG6rT73jD8wKGTuHeBIL7v2m4cV5YrNrk5gEwhbqjykXzFj7hYdGBgV1O11GnYwt+MKe/smAiDmnHaqXsxrG+gR7R3Ff6ED4GRgd+LJuQ6aYJ05mAdwNa1bAcmHylqEtym4HJ6dUUyxzCKfnMjPvNIHHcwQKcFNSZSOF+qKc32om</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

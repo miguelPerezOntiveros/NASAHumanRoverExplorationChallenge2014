@@ -1,0 +1,35 @@
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe.manifest
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.application
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe.manifest
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.application
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Nueva carpeta\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe.manifest
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.application
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe.manifest
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.application
+C:\Users\LABMAN\Desktop\SkeletonBasics-WPF\bin\Debug\MySql.Data.dll
+C:\Users\LABMAN\Desktop\kinect buggy\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\LABMAN\Desktop\kinect buggy\obj\Debug\SkeletonBasics-WPF.pdb
